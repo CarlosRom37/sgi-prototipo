@@ -88,5 +88,5 @@ Este proyecto es un prototipo funcional en el lenguaje de Python para la gestió
 ## Diagrama de Procesos
 
 A continuación, se presenta el diagrama de procesos que define el flujo de gestión de incidencias, desde el registro hasta el cierre y seguimiento, asegurando trazabilidad y control según las buenas prácticas y normas ISO/IEC 12207.
-![diagrama]DiagramaFlujoProcesos.png
+![diagrama](DiagramaFlujoProcesos.png)
 
