@@ -1,7 +1,7 @@
 # SGI-Prototipo para la empresa AndesBank(Sistema de Gestión de Incidencias)
 
 ## Descripción
-Este proyecto es un prototipo funcional en el lenguaje de Python para la gestión de reportes de incidencias en el entorno FinTech. Está diseñado para demostrar principios de ciclo de vida seguro, gestión de control de cambios y prácticas DevSecOps.
+Este proyecto utiliza el lenguaje de Python para la gestión de reportes de incidencias en el entorno FinTech. Está diseñado para demostrar principios de ciclo de vida seguro, gestión de control de cambios y prácticas DevSecOps.
 
 
 ## Módulo funcional de Reportes de incidencias
